@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Karl Ho, Political Scientist/Data Scientist
 
-### More Information
+### SDAR courses
 
-A place to include any other types of information that you'd like to include about yourself.
+Data Methods: Data Production and Collection
+Data Visualization
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kyho@utdallas.edu](mailto:kyho@utdallas.edu)
