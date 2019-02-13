@@ -9,6 +9,7 @@ Karl Ho, Political Scientist/Data Scientist
 ### SDAR courses
 
 Data Methods: Data Production and Collection
+
 Data Visualization
 
 ### Contact me
