@@ -4,7 +4,7 @@ title: Data Visualization (EPPS 6356)
 ---
  [Introduction](https://kho777.github.io/datavisualization/introduction/) 
  
- [Data Theory](https://kho777.github.io/datavisualization/data theory/)
+ [Data Theory](https://kho777.github.io/datavisualization/datatheory/)
  
  [Messages in Data](https://kho777.github.io/datavisualization/messagesindata/) 
  
